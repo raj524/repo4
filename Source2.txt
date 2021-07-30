@@ -1,0 +1,40 @@
+<html>
+    <title>Gallery of Cuisines</title>
+    
+    <style>
+        img{
+            border-radius:20%;
+            margin: 7%;
+        }
+        body
+        {
+            background-color: lightskyblue;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            margin: 0%;
+            padding: 0%;
+            background-image: url('sea1.jpg');
+        }
+    </style>
+<body>
+    <br><br>
+    <h1 style="text-align: center;font-family:monospace;color: crimson;font-size: 48px ;border-radius: 50%;background-color: darkorange">Our Photo Gallery at The Sea King</h1>
+    <p><img src="image/1f.jpg " align=left width="400px" height="400px"/></p>
+    <p><img src="image/2f.jpg " align=right width="400px" height="400px"/></p>
+    <br><br><br>
+    <p><img src="image/3f.jpg " align=left width="400px" height="400px"/></p>
+    <p><img src="image/6f.jpg " align=right width="400px" height="300px"/></p>
+    <br><br><br>
+    <p><img src="image/4f.jpg " align=left width="400px" height="300px"/></p>
+    <p><img src="image/5f.jpg " align=right width="400px" height="500px"/></p>
+    <p><img src="image/7f.jpg " align=centre width="400px" height="300px"/></p>
+    <p><img src="image/11f (2).jpg " align=left width="500px" height="500px"/></p>
+    <br><br>
+    <p><img src="image/11f (1).jpg " align=centre width="500px" height="400px"/></p>
+    <p><img src="image/8f.jpg " align=left width="450px" height="300px"/></p>
+    <p><img src="image/9f.jpg " align=right width="400px" height="450px"/></p>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <a href="#top"> Go To Top</a>
+</body>
+</html>
